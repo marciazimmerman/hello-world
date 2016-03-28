@@ -2,6 +2,13 @@
 I'm Marcia Zimmerman of Santa Clara County, California. I'm learning JavaScript. I'd like to:
 - code a converter from Canadian to United States dollars;
 - write a simple text-based game;
+- create an app that inventories the items in my toolbox
+-  each item should have a Name and
+-  three otherwise-undefined properties in an array
+-     hammer (13 ounce, claw, old)
+-     boxcutter (yellow, scrounged, from garage)
+-     socket set (small, from OSH)
+-     
 - take over the world.
 
 Some things I have done:
